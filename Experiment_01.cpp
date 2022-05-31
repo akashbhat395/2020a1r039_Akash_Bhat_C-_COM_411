@@ -24,3 +24,4 @@ int main()
     cout << "\nThe Factorial of the entered number is = " << f;
     return 0;
 }
+
